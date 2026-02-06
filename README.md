@@ -66,3 +66,9 @@ npx expo run:ios
 
 npx expo prebuild --platform android
 ```
+
+### coderabbit
+
+[docs](https://docs.coderabbit.ai/guides/commands#manually-request-code-reviews)
+
+如果没有在 pr 的时候进行检查，可以在pr里添加这个注释`@coderabbitai full review`
